@@ -15,10 +15,14 @@
     </option>
   </component>
   <component name="GOROOT" path="$PROJECT_DIR$/../go1.15.3" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1nziUnlPCbW6NFSWUlgLRE4aAtw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,5 +60,17 @@
       <screen x="0" y="23" width="1280" height="737" />
     </state>
     <state x="104" y="36" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.737@0.23.1280.737" timestamp="1612399492103" />
+    <state x="462" y="295" key="Github.ShareDialog" timestamp="1612399756628">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="462" y="295" key="Github.ShareDialog/0.23.1280.737@0.23.1280.737" timestamp="1612399756628" />
+    <state x="411" y="103" key="Github.UntrackedFilesDialog" timestamp="1612399763892">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="411" y="103" key="Github.UntrackedFilesDialog/0.23.1280.737@0.23.1280.737" timestamp="1612399763892" />
+    <state x="240" y="131" key="Vcs.Push.Dialog.v2" timestamp="1612399796482">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="240" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.737@0.23.1280.737" timestamp="1612399796482" />
   </component>
 </project>
