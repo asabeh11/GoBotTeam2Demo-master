@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cfae956-a6f7-419f-9e50-2107f929bbd2" name="Default Changelist" comment="add">
+    <list default="true" id="9cfae956-a6f7-419f-9e50-2107f929bbd2" name="Default Changelist" comment="added move">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +58,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="added move" />
+    <option name="LAST_COMMIT_MESSAGE" value="added move" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -75,9 +77,13 @@
       <screen x="0" y="23" width="1280" height="737" />
     </state>
     <state x="411" y="103" key="Github.UntrackedFilesDialog/0.23.1280.737@0.23.1280.737" timestamp="1612399763892" />
-    <state x="240" y="131" key="Vcs.Push.Dialog.v2" timestamp="1612399859098">
+    <state x="240" y="131" key="Vcs.Push.Dialog.v2" timestamp="1612400288390">
       <screen x="0" y="23" width="1280" height="737" />
     </state>
-    <state x="240" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.737@0.23.1280.737" timestamp="1612399859098" />
+    <state x="240" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.737@0.23.1280.737" timestamp="1612400288390" />
+    <state x="441" y="312" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612404169752">
+      <screen x="0" y="23" width="1280" height="737" />
+    </state>
+    <state x="441" y="312" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.737@0.23.1280.737" timestamp="1612404169752" />
   </component>
 </project>
