@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cfae956-a6f7-419f-9e50-2107f929bbd2" name="Default Changelist" comment="" />
+    <list default="true" id="9cfae956-a6f7-419f-9e50-2107f929bbd2" name="Default Changelist" comment="add">
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
@@ -52,6 +55,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
@@ -68,9 +75,9 @@
       <screen x="0" y="23" width="1280" height="737" />
     </state>
     <state x="411" y="103" key="Github.UntrackedFilesDialog/0.23.1280.737@0.23.1280.737" timestamp="1612399763892" />
-    <state x="240" y="131" key="Vcs.Push.Dialog.v2" timestamp="1612399796482">
+    <state x="240" y="131" key="Vcs.Push.Dialog.v2" timestamp="1612399859098">
       <screen x="0" y="23" width="1280" height="737" />
     </state>
-    <state x="240" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.737@0.23.1280.737" timestamp="1612399796482" />
+    <state x="240" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.737@0.23.1280.737" timestamp="1612399859098" />
   </component>
 </project>
